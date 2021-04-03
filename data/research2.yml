@@ -1,0 +1,6 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-left onscroll-image-fade-in"
+title : "Research Question 2?"
+content: |
+  Suspendisse sodales ullamcorper ante. Maecenas lorem elit, porttitor a placerat a, vulputate nec sapien. Praesent faucibus ante tortor, vel varius lorem lobortis vel. Ut orci dolor, aliquet eget blandit eget, vestibulum fermentum massa. Quisque non lorem quis nisl auctor efficitur vitae sodales tellus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi semper et magna nec commodo.
+image: "images/david-clode-Cjdcpj4l2NM-unsplash.jpg"

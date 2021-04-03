@@ -1,0 +1,7 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-left onscroll-image-fade-in"
+id: "first"
+title : "Research Question 1?"
+content: |
+  Aliquam ullamcorper leo a scelerisque gravida. Aenean quis lectus mattis, volutpat felis malesuada, cursus mi. Mauris eu diam in enim interdum elementum vitae viverra tortor. Praesent feugiat placerat fermentum. Curabitur at lectus vel urna tempor eleifend. Nunc convallis lobortis magna, eu mollis tortor molestie vitae. Quisque a ante eget metus bibendum imperdiet eu at neque. Quisque aliquam leo id euismod porta.
+image: "images/srinivasan-venkataraman-hglSMjdh83M-unsplash.jpg"

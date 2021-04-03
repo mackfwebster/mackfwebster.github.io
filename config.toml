@@ -2,7 +2,7 @@
 ## Basic Configuration
 ## -----------------------------------------------
 
-title = "Mackenzie Webster, PhD"
+title = "Mackenzie Webster"
 theme = "hugo-story"
 publishDir = "docs"
 
@@ -20,14 +20,10 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 ## -----------------------------------------------
 
 [Params]
-  description = "I am a cognitive psychologist studying primate social behavior and cognition. I am currently a Postdoctoral Fellow in Research & Science Teaching (FIRST) at Emory University."
+  description = "I am a cognitive psychologist studying primate social behavior and cognition. I am an incoming Postdoctoral Fellow in Research & Science Teaching (FIRST) at Emory University."
   logo = "images/banner.jpg"
   favicon = false
 
 [Params.social]
-  # github = "https://github.com/caressofsteel/"
   twitter = "https://twitter.com/mackfwebster"
   email = "mackenzie.f.webster@gmail.com"
-  # instagram = "https://instagram.com"
-  # linkedin = "https://linkedin.com"
-  # telegram = "https://telegram.org"

@@ -1,12 +1,12 @@
 ####################### Banner #########################
-style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
-title : "Hugo Story"
+style: "style3 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Mackenzie Webster"
 subtitle: |
-  Hugo Story released for free under the <a target="_blank" href="https://creativecommons.org/licenses/by/3.0/">Creative Commons</a>.
+  Incoming Postdoctoral Fellow in Research & Science Teaching (<a href="https://med.emory.edu/education/postdoctoral-training/first">FIRST</a>) | Emory University
 content : |
-  This is a <strong>Banner</strong> element, and it's generally used as an introduction or opening statement. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-banner">details</a>).
+  I am a cognitive psychologist studying primate social behavior and cognition. I am particularly interested in id dolor vel finibus. Aliquam ac pharetra libero. Proin cursus ipsum dui, sit amet condimentum leo venenatis at. Pellentesque posuere, erat vitae dictum venenatis.
 button:
-  label : "Get Started"
-  link : "#first"
-image : "images/banner.jpg"
+  label : "Download CV"
+  link : "https://drive.google.com/file/d/1unjbWAjrBw4cZ6iWv2D-oWFfBQdbokkg"
+image : "images/mfw.jpg"
 

@@ -1,0 +1,69 @@
+title : "Publications"
+
+peer_reviewed:
+  - title : "The effects of positive and negative affect on subsequent behavior and cognitive performance in capuchin monkeys."
+    authors : "<strong>Webster, MF</strong> & Brosnan, SF"
+    year: "<em>in press</em>"
+    journal : "Journal of Comparative Psychology"
+    url: 
+    
+  - title : "Post-event misinformation effects in a language-trained chimpanzee (<em>Pan troglodytes</em>)."
+    authors : "James, BT, <strong>Webster, MF</strong>, Menzel, CR, Whitham, W, & Beran, MJ"
+    year: 2020
+    journal : "<em>Animal Cognition, 23</em>(5), 861-869."
+    url: https://doi.org/10.1007/s10071-020-01391-2
+
+  - title: "Capuchin monkeys play Nash equilibria in dynamic games, but their decisions may not be influenced by oxytocin."
+    year: 2019 
+    authors: "<strong>Smith, MF</strong>, Leverett, K, Wilson, BJ, & Brosnan, SF"
+    journal: "<em>American Journal of Primatology, 81</em>(4), e22973."
+    url: https://doi.org/10.1002/ajp.22973
+
+  - title: "Chimpanzees rarely settle on consistent patterns of play in the Hawk Dove, Assurance, and Prisoner’s Dilemma games, in a token exchange task."
+    year: 2019 
+    authors: "Hall, K, <strong>Smith, MF</strong>, Russell, JL, Lambeth, SP, Schapiro, SJ, & Brosnan, SF"
+    journal: "<em>Animal Behavior and Cognition, 6</em>(1), 48-70."
+    url: https://doi.org/10.26451/abc.06.01.04.2019
+
+  - title: "The importance of a truly comparative methodology for comparative psychology. "
+    year: 2018
+    authors: "<strong>Smith, MF</strong>, Watzek, J, & Brosnan, SF"
+    journal: "<em>International Journal of Comparative Psychology, 31</em>."
+    url: https://escholarship.org/uc/item/6x91j98x
+    
+in_prep:
+  - title: "Strategic decision-making and prediction of opponent behavior in monkeys and humans during a competitive two-player game."
+    authors: <strong>Webster, MF</strong>, Watzek, J, & Brosnan, SF
+
+  - title: "Dyadic decision-making can be influenced by a single key individual within the context of the broader social group in capuchin monkeys (<em>Sapajus [Cebus] apella</em>)."
+    authors: <strong>Webster, MF</strong> & Brosnan, SF
+
+  - title: "Can judgement bias paradigms capture changes in capuchin monkey (<em>Sapajus [Cebus] apella</em>) affect?"
+    authors: <strong>Webster, MF</strong>*, Adrianese, JEC*, Watzek, J, & Brosnan, SF
+    
+chapters:    
+  - title: "Strategies used by non-human primates in dynamic games."
+    year: 2020
+    authors: "<strong>Smith, MF</strong>, Watzek, J, & Brosnan, SF"
+    book: "In: Capra CM, Croson R, Rigdon MI, & Rosenblat T (eds) <em>The Handbook of Experimental Game Theory</em>. Edward Elgar Publishing, p 256-270."
+    url: https://doi.org/10.4337/9781785363337.00018
+
+  - title: "Coordination games."
+    year: 2019 
+    authors: "<strong>Smith, MF</strong> & Brosnan, SF. (2019)"
+    book: "In: Vonk J & Shackelford T (eds) <em>Encyclopedia of Animal Cognition and Behavior</em>. Springer."
+    url: https://doi.org/10.1007/978-3-319-47829-6_1376-1
+
+  - title: "Comparative economics; Using experimental economics paradigms to understand primate social decision-making."
+    year: 2018
+    authors: "Watzek, J, <strong>Smith, MF</strong>, & Brosnan, SF"
+    book: "In: di Paolo LD, di Vincenzo F, & De Petrillo F (eds) <em>Evolution of Primate Social Cognition</em>. Springer, p 129-141."
+    url: https://doi.org/10.1007/978-3-319-93776-2_9
+
+  - title: "Reciprocity."
+    year: 2017
+    authors: "<strong>Smith, MF</strong> & Brosnan, SF"
+    book: "In Fuentes A (ed) <em>The International Encyclopedia of Primatology</em>. John Wiley & Sons."
+    url: https://doi.org/10.1002/9781119179313.wbprim0071
+
+    

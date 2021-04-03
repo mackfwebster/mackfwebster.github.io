@@ -1,0 +1,10 @@
+{{ define "main" }}
+
+	{{ partial "banner" site.Data.banner }}
+	{{ partial "spotlight" site.Data.research1 }}
+	{{ partial "spotlight" site.Data.research2 }}
+	{{ partial "items" site.Data.teaching }}
+	{{ partial "publications" site.Data.publications }}
+	{{ partial "template/footer" . }}
+
+{{ end }}
