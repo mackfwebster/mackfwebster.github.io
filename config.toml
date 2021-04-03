@@ -4,6 +4,7 @@
 
 title = "Hugo Story"
 theme = "hugo-story"
+publishDir = "docs"
 
 
 ## -----------------------------------------------
