@@ -1,5 +1,5 @@
 ####################### Spotlight #########################
-style: "style1 orient-right content-align-left image-position-left onscroll-image-fade-in"
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
 title : "Research Question 1?"
 content: |
