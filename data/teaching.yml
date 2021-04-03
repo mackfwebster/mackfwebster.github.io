@@ -3,17 +3,14 @@ content: |
   Vivamus nulla justo, imperdiet ac condimentum sit amet, ullamcorper id nulla. Morbi dui sapien, tristique at nulla at, auctor luctus libero. Integer id pulvinar nisl. Nulla facilisi. Etiam consequat lobortis eleifend. Donec sagittis, magna in ornare imperdiet, nulla dolor blandit risus, sed rhoncus ex justo id massa. Sed vulputate tempor libero porttitor egestas. Nam quis nisl nunc. Donec efficitur ligula vel aliquet viverra. 
 style: "style1 medium onscroll-fade-in"
 items:
-  # feature item loop
   - name : "Developmental Psychology"
     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
     style : "style2 major fa-baby"
 
-  # feature item loop
   - name : "Introduction to Biological Psychology"
     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
     style : "solid style2 major fa-dna"
     
-  # feature item loop
   - name : "Cognitive Psychology"
     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
     style : "solid style2 major fa-head-side-brain"
