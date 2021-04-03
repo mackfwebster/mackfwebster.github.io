@@ -4,6 +4,7 @@
 
 title = "Mackenzie Webster, PhD"
 theme = "hugo-story"
+publishDir = "docs"
 
 
 ## -----------------------------------------------
