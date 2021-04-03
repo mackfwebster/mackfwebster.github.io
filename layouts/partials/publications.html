@@ -1,0 +1,55 @@
+				<!-- Publications -->
+                <section class="wrapper style1 align-center">
+                    <div class="inner">
+                        {{ with .title }}<h2>{{ . }}</h2>{{ end }}
+                        {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
+
+                        <div class="index align-left">
+
+                            <!-- Peer-reviewed -->
+                                <section>
+                                    <header>
+                                        <h3>Peer-reviewed</h3>
+                                    </header>
+                                    <div class="content">
+                                        {{ range .peer_reviewed }}
+                                            <section>
+                                                <p>{{ .authors | safeHTML }}. ({{ .year | safeHTML }}). <a href="{{ .url }}">{{ .title | safeHTML }}</a> {{ .journal | safeHTML }} </p>
+                                            </section>
+                                        {{ end }}
+                                    </div>
+                                </section>
+
+                            <!-- In preparation -->
+                                <section>
+                                    <header>
+                                        <h3>In preparation</h3>
+                                    </header>
+                                    <div class="content">
+                                        {{ range .in_prep }}
+                                            <section>
+                                                <p>{{ .authors | safeHTML }}. (<em>in prep.</em>) {{ .title | safeHTML }} </p>
+                                            </section>
+                                        {{ end }}
+                                    </div>
+                                </section>
+
+                            <!-- Chapters -->
+                                <section>
+                                    <header>
+                                        <h3>Chapters</h3>
+                                    </header>
+                                    <div class="content">
+                                        {{ range .chapters }}
+                                            <section>
+                                                <p>{{ .authors | safeHTML }}. ({{ .year | safeHTML }}). <a href="{{ .url }}">{{ .title | safeHTML }}</a> {{ .book | safeHTML }} </p>
+                                            </section>
+                                        {{ end }}
+                                    </div>
+                                </section>
+
+                        </div>
+
+
+                    </div>
+                </section>
