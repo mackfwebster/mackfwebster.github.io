@@ -2,7 +2,7 @@
 ## Basic Configuration
 ## -----------------------------------------------
 
-title = "Mackenzie Webster"
+title = "Mackenzie Webster, PhD"
 theme = "hugo-story"
 publishDir = "docs"
 
@@ -20,8 +20,6 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 ## -----------------------------------------------
 
 [Params]
-  description = "I am a cognitive psychologist studying primate social behavior and cognition. I am a Postdoctoral Fellow in Research & Science Teaching (FIRST) at Emory University, part of the IRACDA (Institutional Research and Academic Career Development Awards) program."
-  logo = "images/banner.jpg"
   favicon = false
 
 [Params.social]
